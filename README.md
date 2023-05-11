@@ -1,7 +1,7 @@
 # Bias-Testing-of-Large-Language-models
 
 Natural Language Processing (NLP) has experienced a rapid increase in the development and deployment of large language models (LLMs). These models have the capability to generate text and interact with
-users in the form of a dialogue. Currently, many companies rely on these models to solve various tasks. However, studies have revealed that large pre-trained language models exhibit biases against social groups based
+users in the form of a dialogue. Currently, many companies rely on these models to solve various tasks. However, studies have revealed that large pre-trained language models exhibit biases against social groups based
 on race, gender, religion, etc. These biases are inherited from the datasets used to train the models. Although
 various methods have been proposed to mitigate these biases, systematic ways of integrating social bias tests
 into development pipelines are still lacking. In this paper, we aim to evaluate the bias in ChatGPT, which is
